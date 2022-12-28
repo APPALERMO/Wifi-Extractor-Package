@@ -15,7 +15,7 @@ work properly.
 More info in the "main.py" file.
 The "notification.py" file in the "Tool" folder is simply a file for creating a custom notification. In case the image file path doesn't work, you can easily change it.
 
-The "web.py" file in the "Tool" folder is the file that allows you to host a website at the url http://localhost:5000/ and mainly performs the same function as the "gui.py" * file but reported in web
+The "web.py" file in the "Tool" folder is the file that allows you to host a website at the url http://localhost:5000/ and mainly performs the same function as the "gui.py" file but reported in web
 
 # Reports Problem
 For any problem, report on: <br>
