@@ -18,6 +18,6 @@ The "notification.py" file in the "Tool" folder is simply a file for creating a 
 The "web.py" file in the "Tool" folder is the file that allows you to host a website at the url http://localhost:5000/ and mainly performs the same function as the "gui.py" file but reported in web
 
 
-For any problem, report on: \n
-• Telegram: @APPA_py (https://t.me/APPA_py/);\n
+For any problem, report on: <br>
+• Telegram: @APPA_py (https://t.me/APPA_py/); <br>
 • Email: appalermo22@gmail.com;
