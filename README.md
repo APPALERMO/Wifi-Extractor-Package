@@ -19,5 +19,5 @@ The "web.py" file in the "Tool" folder is the file that allows you to host a web
 
 
 For any problem, report on:
-• Telegram: @APPA_py (https://t.me/APPA_py/)
-• Email: appalermo22@gmail.com
+• Telegram: @APPA_py (https://t.me/APPA_py/);
+• Email: appalermo22@gmail.com;
