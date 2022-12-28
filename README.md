@@ -22,5 +22,5 @@ For any problem, report on: <br>
 * Telegram: @APPA_py (https://t.me/APPA_py/); <br>
 * Email: appalermo22@gmail.com;<br>
 <br>
-For Donation: 
+For Donation: <br>
 * PayPall: paypal.me/ThePluginer
