@@ -23,4 +23,4 @@ For any problem, report on: <br>
 * Email: appalermo22@gmail.com;<br>
 <br>
 For Donation: <br>
-* PayPall: paypal.me/ThePluginer
+• PayPall: paypal.me/ThePluginer
