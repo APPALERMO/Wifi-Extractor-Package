@@ -1,6 +1,6 @@
 # Wifi-Extractor-Package
 
-!THIS REPOSITY IS FOR INFORMATIONAL PURPOSES!
+<strong>!THIS REPOSITY IS FOR INFORMATIONAL PURPOSES!</strong>
 
 The "Tool" package is the basis of everything, it contains the "____init____" file which allows the extraction of passwords and wifi saved on the computer. 
 It prepares 3 arguments in exactly this order: wifi_list, password_list, networks_dict. Then from here we get the methods: extractWifi, exctractPassword and extractWeb. 
