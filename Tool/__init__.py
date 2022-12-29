@@ -52,7 +52,7 @@ class wifiExtractor:
 
     def extractWeb(self):
 
-        if int((len(self.arr_wifi) and len(self.arr_pass))) != 0 :
+        if int((len(self.arr_wifi) and len(self.arr_pass))) != 0:
             # print("si")
             # print(int((len(self.arr_wifi) and len(self.arr_pass))))
             pass
